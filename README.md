@@ -1,4 +1,5 @@
 - Install node.js with [nvm](https://github.com/creationix/nvm)
+- Run `nvm use`
+- Use [node 20](https://nodejs.org/en/about/releases/)
 - Run `npm i`
-- Use [node 20](https://nodejs.org/en/about/releases/) 
 - Run `node index.js`
